@@ -33,5 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekramzafar&" alt="ekramzafar" /></p>
 
-![image](https://github.com/ekramzafar/ekramzafar/assets/133132379/44e0de1d-8182-4793-9d24-2f6c441da349)
 
