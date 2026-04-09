@@ -131,7 +131,7 @@ I am a **Computer Science Engineering student** passionate about building **AI-p
 
 ### 🔍 GSoC Preparation
 
-* Exploring organizations like **Tor Project**
+* Exploring organizations like **ml4sci**
 * Writing **technical proposals**
 * Learning:
 
