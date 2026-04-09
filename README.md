@@ -16,140 +16,130 @@
 
 ## 🧠 About Me
 
-I am a **Computer Science Engineering student** passionate about building **AI-powered systems and scalable backend architectures**.
+I’m a **Computer Science Engineer** focused on building **AI-driven systems and scalable backend architectures**.
 
-* 🎯 Focus Areas: **Data Structures & Algorithms, Full Stack Development, AI Systems**
-* 🧠 Interests: **Machine Learning, AI Agents, System Design, Distributed Systems**
-* ⚙️ Strength: Building **end-to-end real-world applications**
-* 🚀 Goal: Contribute to **GSoC & top open-source organizations**
+* 🎯 Focus: **DSA + Backend + AI Systems**
+* ⚙️ I love designing **efficient & scalable systems**
+* 🧠 Exploring: **System Design, AI Agents, Distributed Systems**
+* 🚀 Mission: Crack **GSoC & top backend/AI roles**
 
 ---
 
-## 🚀 Engineering Mindset
+## ⚙️ Backend Engineering (Core Strength)
 
-* 💡 I focus on **problem-solving, not just coding**
-* ⚙️ I design systems with **scalability & performance in mind**
-* 🔥 I prefer **building products that solve real-world problems**
-* 📈 Continuous learner with strong curiosity in **AI & backend systems**
+### 🧱 Backend Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java" />
+</p>
+
+### 🔥 What I Can Do (Real Backend Skills)
+
+* ⚡ Design and build **RESTful APIs**
+* 🔐 Implement **Authentication & Authorization (JWT-based)**
+* 🗄️ Database design using **MySQL (Normalization, Joins, Indexing)**
+* ⚙️ Build **scalable backend systems**
+* 🔄 API integration (OpenAI, third-party services)
+* 📦 Error handling & logging systems
+* 🧠 Backend logic optimization
+
+---
+
+### 🧠 Backend Concepts (Important for Interviews)
+
+* System Design Fundamentals
+* Client-Server Architecture
+* MVC Architecture
+* Database Optimization
+* Caching Basics
+* Rate Limiting Concepts
+* API Security Best Practices
 
 ---
 
 ## 🛠️ Complete Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-### 🧠 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-* Machine Learning Models
-* Data Analysis
-* Model Evaluation (ROC, Accuracy, etc.)
-
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
-### ☁️ Other Concepts
+---
 
-* REST APIs
-* System Design Basics
-* Blockchain (for tracking systems)
-* API Integration (OpenAI, etc.)
+## 🚀 Featured Projects
+
+* 🤖 AI Waste Management System (AI + Blockchain)
+* 🌍 Travel Cost Sharing Platform (Backend + Safety Features)
+* 🧠 Notion AI Productivity Tool
+* 🌌 Gravitational Lens ML Model (**ROC: 0.956**)
 
 ---
 
-## 🚀 Featured Projects (Detailed)
+## 🧠 Currently Building
 
-### 🤖 AI Waste Management System
-
-* Built an **AI-based classification system for e-waste**
-* Integrated **Blockchain for tracking & incentives**
-* Designed for **real-world sustainability impact**
-* Focus: AI + Backend + System Design
+* 🔥 AI-powered systems for real-world problems
+* ⚙️ Backend-heavy applications with scalability
+* 🌍 Open-source contributions (GSoC preparation)
 
 ---
 
-### 🧠 Notion AI Productivity Tool
+## 🏗️ Architecture Thinking
 
-* Developed an **AI-powered task assistant**
-* Generates structured to-do lists intelligently
-* Improves productivity using automation
+I focus on:
 
----
-
-### 🌍 Travel Cost Sharing Platform
-
-* Users can **create & join travel plans**
-* Expense splitting system to reduce costs
-* 🔐 Integrated **Women Safety Feature**
-* Focus on **real-world usability & scalability**
+* 📌 Clean code & modular design
+* 📌 Scalable backend systems
+* 📌 Efficient database queries
+* 📌 Real-world usability
 
 ---
 
-### 🌌 Gravitational Lens Detection (ML Project)
+## 🌍 Open Source Journey
 
-* Built ML model for space data classification
-* Achieved **ROC Score: 0.956**
-* Applied **data preprocessing + model optimization**
-
----
-
-## 🌍 Open Source & GSoC Journey
-
-### 🏆 GirlScript Summer of Code (GSSOC 2024)
-
-* Contributed to open-source repositories
-* Worked on **real-world issues & feature development**
-* Improved **code quality & collaboration skills**
-
-### 🔍 GSoC Preparation
-
-* Exploring organizations like **ml4sci**
-* Writing **technical proposals**
-* Learning:
-
-  * Rust (for systems programming)
-  * Large-scale system design
-  * Open-source contribution workflow
+* 🌟 Contributor at **GSSOC 2024**
+* 🔍 Preparing for **GSoC (Tor, System Projects)**
+* 📈 Learning Rust & advanced backend systems
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ekramzafar&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekramzafar&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+---
+
+## 🐍 Contribution Snake (Unique 🔥)
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ekramzafar&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/ekramzafar/ekramzafar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -169,7 +159,7 @@ I am a **Computer Science Engineering student** passionate about building **AI-p
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 <a href="https://twitter.com/ekramzafar1"><img src="https://skillicons.dev/icons?i=twitter" /></a>
@@ -185,8 +175,8 @@ I am a **Computer Science Engineering student** passionate about building **AI-p
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Final Note
 
-> *"I build systems that solve real-world problems using AI and scalable backend design."*
+> *"I don’t just build projects — I design systems that solve real problems at scale."*
 
 ---
